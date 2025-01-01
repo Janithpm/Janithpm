@@ -154,7 +154,7 @@
 ###
 
 <br clear="both">
-
+<h3 align="left">💹 Contributions</h3>
 <img src="https://raw.githubusercontent.com/Janithpm/Janithpm/output/snake.svg" alt="Snake animation" />
 
 ###
